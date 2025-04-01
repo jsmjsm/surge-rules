@@ -72,7 +72,6 @@ HOST-SUFFIX,binancezh.top,Crypto
 HOST-SUFFIX,bnappzh.mobi,Crypto
 HOST-SUFFIX,bsc.getblock.io,Crypto
 HOST-SUFFIX,bscscan.com,Crypto
-DOMAIN-KEYWORD,binance,Crypto
 
 # > Huobi
 HOST-SUFFIX,hbabit.com,Crypto
@@ -198,7 +197,7 @@ HOST-SUFFIX,stfx.io,Crypto
 HOST-SUFFIX,redacted.finance,Crypto
 
 # > Infrastructure & Tools
-HOST-SUFFIX,ankr.com,Crypto
+# HOST-SUFFIX,ankr.com,Crypto
 HOST-SUFFIX,pyth.network,Crypto
 HOST-SUFFIX,sei.io,Crypto
 
