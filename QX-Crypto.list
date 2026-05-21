@@ -30,7 +30,6 @@ HOST-SUFFIX,avax.network,Crypto
 HOST-SUFFIX,optimism.io,Crypto
 HOST-SUFFIX,arbitrum.io,Crypto
 HOST-SUFFIX,poly.network,Crypto
-HOST-SUFFIX,zkscan.io,Crypto
 HOST-SUFFIX,zksync.io,Crypto
 HOST-SUFFIX,boba.network,Crypto
 HOST-SUFFIX,hyperliquid.xyz,Crypto
@@ -70,8 +69,7 @@ HOST-SUFFIX,binancezh.pro,Crypto
 HOST-SUFFIX,binancezh.sh,Crypto
 HOST-SUFFIX,binancezh.top,Crypto
 HOST-SUFFIX,bnappzh.mobi,Crypto
-HOST-SUFFIX,bsc.getblock.io,Crypto
-HOST-SUFFIX,bscscan.com,Crypto
+HOST-SUFFIX,yingwangtech.cloud,Crypto
 
 # > Huobi
 HOST-SUFFIX,hbabit.com,Crypto
@@ -83,7 +81,6 @@ HOST-SUFFIX,huobi.sc,Crypto
 HOST-SUFFIX,huobiasia.vip,Crypto
 HOST-SUFFIX,huobigroup.com,Crypto
 HOST-SUFFIX,huobitoken.com,Crypto
-HOST-SUFFIX,heco-scan.com,Crypto
 HOST-SUFFIX,hecoview.com,Crypto
 HOST-SUFFIX,bitderiv.com,Crypto
 HOST-SUFFIX,hecochain.com,Crypto
